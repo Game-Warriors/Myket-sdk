@@ -1,0 +1,20 @@
+{
+  "name": "com.gamewarriors.myket",
+  "version": "0.0.1",
+  "displayName": "Myket IAP Plugin",
+  "description": "This package provide purchase api for myket android market",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.gameframe.simplejson": "1.0.0"
+  },
+  "keywords": [
+    "purchase",
+    "myket"
+  ],
+  "author": {
+    "name": "Game Warriors",
+    "email": "mahdifada.eddini@outlook.com",
+    "url": "https://www.gamewarriorsstudio.com"
+  }
+}
